@@ -1,0 +1,54 @@
+﻿* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background: #ddd;
+}
+
+body {
+	margin: 1em 10%;
+	padding: 1em 3em;
+	font: 80%/1.4 tahoma, arial, helvetica, lucida sans, sans-serif;
+	border: 1px solid #999;
+	background: #eee;
+	position: relative;
+}
+
+#head {
+	margin-top: 1.8em;
+	border-bottom: 1px solid #999;
+}
+
+h2 {
+	margin: 0.8em 0 0 0;
+}
+
+ul.projetos {
+	margin-top: 12px;
+	list-style: none;
+	line-height: 16px;
+}
+
+a {
+	color: #024378;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #04569A;
+	text-decoration: underline;
+}
+
+#rodape {
+	margin-top: 1.8em;
+	border-top: 1px solid #999;
+	padding-top: 1em;
+}
+
+.lst {
+  width:32%;
+  float:left;
+}
